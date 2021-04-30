@@ -22,13 +22,14 @@ BEM stands for Block, Element, Modifier.
 ## PROS of using BEM
 
  ``` 
-  👉 BEM provides a modular structure to your CSS project. Because of its unique naming scheme,
-	we won’t run into conflicts with other CSS names. BEM also provides a relationship between CSS and HTML.
-	Ambiguous names are hard to maintain in the future⁣.
+👉  BEM provides a modular structure to your CSS project. Because of its unique naming scheme,
+     we won’t run into conflicts with other CSS names. BEM also provides a relationship between CSS and HTML.
+     Ambiguous names are hard to maintain in the future⁣.
 
-👉 BEM Methodology will massively improve code maintainability and speed up the development process
+👉   BEM Methodology will massively improve code maintainability and speed up the development process
 
- 👉 Note that the best practice is to use BEM only with classes, and not IDs because classes allow you to repeat names if necessary and create more consistent coding structure. 
+👉   Note that the best practice is to use BEM only with classes, and not IDs because classes allow you to repeat names.
+      if necessary and create more consistent coding structure. 
  
  ``` 
 
